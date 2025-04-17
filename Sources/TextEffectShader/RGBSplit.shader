@@ -301,5 +301,4 @@ Shader "CustomTMP/RGBSplit"
 		}
 	}
 	Fallback "TextMeshPro/Mobile/Distance Field"
-	CustomEditor "TMP_SplitShaderGUI"
 }
