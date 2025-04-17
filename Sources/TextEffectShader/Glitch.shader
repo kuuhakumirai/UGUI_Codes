@@ -301,5 +301,4 @@ Shader "CustomTMP/Glitch"
 		}
 	}
 	Fallback "TextMeshPro/Mobile/Distance Field"
-	CustomEditor "TMP_GlitchShaderGUI"
 }
